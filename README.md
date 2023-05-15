@@ -1,6 +1,7 @@
 # Maya
 
 Oyuna bu linkten ulaşabilirsiniz : **http://maya.orgfree.com**
+YouTube oyun tanıtım linki: **https://www.youtube.com/watch?v=7JvQUF4eoYo**
 
 ## Giriş
 "Maya", kullanıcılara benzersiz ve heyecan dolu bir oyun deneyimi sunmayı amaçlayan bir JavaScript oyunudur. Basit ama zorlu bu oyun, kullanıcılarına hızlı düşünme ve hızlı hareket etme yeteneklerini test etme fırsatı sunar.
